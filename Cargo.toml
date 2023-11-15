@@ -1,6 +1,6 @@
 [package]
 name = "pastabin"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Christopher Strnad <strnadchristopher@gmail.com>"]
 description = "A pastebin clone written in Rust"
