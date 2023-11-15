@@ -1,0 +1,6 @@
+Hey guys
+This is an example pastabin!
+To use this code run locally and use the endpoint /newPasta and sent plaintext in the body of the request.
+It will return a uuid to access the pastabin. i.e. /<uuid>
+Real simple stuff. Correct and hyper efficient.
+Have a great day!
