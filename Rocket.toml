@@ -1,0 +1,4 @@
+[global.limits]
+json = 90242880
+plain = 50000000
+string = 50000000
