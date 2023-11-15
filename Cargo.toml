@@ -1,6 +1,6 @@
 [package]
 name = "pastabin"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Christopher Strnad <strnadchristopher@gmail.com>"]
 description = "A pastebin clone written in Rust. Allows encrypting by returning a password string that can be passed like /<id>/<password>"
