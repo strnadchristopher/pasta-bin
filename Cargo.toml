@@ -1,7 +1,12 @@
 [package]
-name = "rust-by-practice"
+name = "pastabin"
 version = "0.1.0"
 edition = "2021"
+authors = ["Christopher Strnad <strnadchristopher@gmail.com>"]
+description = "A pastebin clone written in Rust"
+repository = "https://github.com/strnadchristopher/pasta-bin"
+exclude = ["/target"]
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

@@ -665,6 +665,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "pastabin"
+version = "0.1.0"
+dependencies = [
+ "rand",
+ "rocket",
+ "serde_json",
+ "uuid",
+]
+
+[[package]]
 name = "pear"
 version = "0.2.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -930,16 +940,6 @@ dependencies = [
  "time",
  "tokio",
  "uncased",
-]
-
-[[package]]
-name = "rust-by-practice"
-version = "0.1.0"
-dependencies = [
- "rand",
- "rocket",
- "serde_json",
- "uuid",
 ]
 
 [[package]]
